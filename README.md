@@ -42,9 +42,12 @@ SOFTWARE REQUIREMENTS:
 3.FrameWork/ToolKit-Android 4.2.1
 4.IDE-InteliJ
 
-
-
-![image](https://user-images.githubusercontent.com/69396799/132394795-5b10aaa3-0a49-4225-bea3-6dd03a8c352a.png)
+1.2.3 [image](https://user-images.githubusercontent.com/69396799/132394993-dea1963e-53b3-40f8-baa2-2a6a249670b6.png)
+These are all the requirements used in the Android Manifest File who aim is :describes essential information about your app to the Android build tools, the Android operating system, and Google Play.In this project we have used these:-
+1."android.permission.BLUETOOTH“:
+includes support for the Bluetooth network stack, which allows a device to wirelessly exchange data with other Bluetooth devices.
+2."android.permission.BLUETOOTH_ADMIN“:this is an android manifest permission and its parent class is java.lanag.Object 
+3."android.permission.ACCESS_FINE_LOCATION“:more like a connection request provide better connection.
 
 
 

@@ -42,34 +42,33 @@ SOFTWARE REQUIREMENTS:
 3.FrameWork/ToolKit-Android 4.2.1
 4.IDE-InteliJ
 
-1.2.3 [image](https://user-images.githubusercontent.com/69396799/132394993-dea1963e-53b3-40f8-baa2-2a6a249670b6.png)
-These are all the requirements used in the Android Manifest File who aim is :describes essential information about your app to the Android build tools, the Android operating system, and Google Play.In this project we have used these:-
+1.2.3 Permissions 
+These are all the requirements used in the Android Manifest File whose aim is to : describes essential information about your app to the Android build tools, the Android operating system, and Google Play.In this project we have used these:-
 1."android.permission.BLUETOOTH“:
 includes support for the Bluetooth network stack, which allows a device to wirelessly exchange data with other Bluetooth devices.
 2."android.permission.BLUETOOTH_ADMIN“:this is an android manifest permission and its parent class is java.lanag.Object 
 3."android.permission.ACCESS_FINE_LOCATION“:more like a connection request provide better connection.
 
+1.2.4 Front-End
+![image](https://user-images.githubusercontent.com/69396799/132395630-c72b0e22-2721-47f3-a8d5-62e33fef41c1.png)
+![image](https://user-images.githubusercontent.com/69396799/132395652-19b41ec2-d367-4253-b2c4-567311dc0dd5.png)
 
+1.2.5 Device List 
+Mobile1 : VivoFace 
+![image](https://user-images.githubusercontent.com/69396799/132395800-e6004aee-32f2-421d-a084-8633c01a2ef6.png)
+![image](https://user-images.githubusercontent.com/69396799/132395820-0b84a2e2-c11d-41b1-9208-056be8f1508c.png)
 
+Mobile2  : PocoFace
+![image](https://user-images.githubusercontent.com/69396799/132396089-416bff1b-850a-481f-b79a-ed269a761fd5.png)
+![image](https://user-images.githubusercontent.com/69396799/132396112-b0e385bb-68f1-45c0-a795-3a3e0a11bfef.png)
 
+1.2.6 ChatView after ConnectionEstablished:
 
+![image](https://user-images.githubusercontent.com/69396799/132396450-4210453b-0216-4ca3-9bb7-cb5ed0f0d309.png)
+![image](https://user-images.githubusercontent.com/69396799/132396474-ffacb1b1-7ca4-4396-88a8-3fb11ed0df82.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A demonstartion link available at this link:
+Copy paste if the link not working
 
 SUMMARY
 The primary need for the Android Bluetooth chat is to enable communication within 10 metres without the use of Wifi. This is useful when individuals have to communicate confidential information between each other in an hospital when their is no wifi,cellular network available and they cant use voices or sounds.
